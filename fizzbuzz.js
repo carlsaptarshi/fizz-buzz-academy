@@ -8,7 +8,7 @@ function fizzBuzz() {
         } else if (i % 5 === 0) {
             console.log("buzz");
         } else {
-            console.log(i)
+            console.log(i);
         }
     }
 }
